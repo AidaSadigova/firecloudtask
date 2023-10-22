@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27401530302",
+    "project_id": "firecloudtask",
+    "storage_bucket": "firecloudtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27401530302:android:69fed986146933e76ee7ef",
+        "android_client_info": {
+          "package_name": "com.example.firecloudtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApZEXY3ZdewGbKOaG3kDoZNRONDjDJkE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
